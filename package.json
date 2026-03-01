@@ -1,0 +1,28 @@
+{
+  "name": "aula2ppi",
+  "version": "1.0.0",
+  "description": "Pratica no desenvolvimento de uma aplicacao servidora HTTp",
+  "keywords": [
+    "POST",
+    "HTTP"
+  ],
+  "homepage": "https://github.com/milhoranca21-del/Aula2PPI#readme",
+  "bugs": {
+    "url": "https://github.com/milhoranca21-del/Aula2PPI/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milhoranca21-del/Aula2PPI.git"
+  },
+  "license": "ISC",
+  "author": "Arthur Ferreira Milhorança",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
